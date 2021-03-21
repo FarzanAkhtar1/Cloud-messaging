@@ -1,0 +1,8 @@
+PAGE
+    Toplevel: MainPage
+        Frame: Frame1  
+            Button: BtnLogin  
+            Button: BtnRegister  
+        Message: Message1  
+        Menu Bar
+
